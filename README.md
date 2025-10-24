@@ -4,13 +4,12 @@
 ---
 
 ### 🌷 About Me
-- 🎓 I'm passionate about **AI, Deepfake Detection, and Web Apps with Personality**.  
+- 🎓 I'm passionate about Full Stack Web Development, Web Apps with Personality**.  
 - 🌸 Currently exploring **multi-modal deep learning** and **creative UI design**.  
 - 🌈 I enjoy combining **technology + aesthetics** — coding things that look and feel beautiful.  
-- 💬 Ask me about **Deep Learning, Firebase, React, and Frontend Projects**.  
+- 💬 Ask me about Firebase, React, and Frontend Projects**.  
 - 📫 Reach me at: **shivaniraghavendra10@gmail.com**
 
----
 
 ### 🛠️ Tech Stack
 
