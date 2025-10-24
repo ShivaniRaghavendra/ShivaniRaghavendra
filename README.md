@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivani Raghavendra</h1>
-<h3 align="center">💻 Aspiring Product Engineer | Deep Learning & Frontend Enthusiast 🌸</h3>
+<h3 align="center">💻 Aspiring Web Developer and Frontend Enthusiast 🌸</h3>
 
 ---
 
 ### 🌷 About Me
-- 🎓 I'm passionate about Full Stack Web Development, Web Apps with Personality**.  
+- 🎓 I'm passionate about Full Stack Web Development, **Web Apps with Personality**.  
 - 🌸 Currently exploring **multi-modal deep learning** and **creative UI design**.  
 - 🌈 I enjoy combining **technology + aesthetics** — coding things that look and feel beautiful.  
 - 💬 Ask me about Firebase, React, and Frontend Projects**.  
